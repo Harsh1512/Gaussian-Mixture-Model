@@ -4,8 +4,8 @@
 3.	Download the test file in csv format.
 4.	Import the test.csv  in matrix format and generate a script
 5.	Write a command 
-      data=test
-below the script
+      'data=test'
+      below the script
 6.	Copy the contents of code ’gmm.m’  below the above mentioned script.
 7.	Save the above script and run it.
 8.	You will get two classes of answer.

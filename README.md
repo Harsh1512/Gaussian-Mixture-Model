@@ -2,6 +2,7 @@
 1.	Install Matlab
 2.	Download the code ‘gmm.m’
 3.	Download the test file in csv format.
+4.	Remove the columns containing categorical data.
 4.	Import the test.csv  in matrix format and generate a script
 5.	Write a command 
       'data=test'
